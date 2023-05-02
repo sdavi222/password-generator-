@@ -1,0 +1,73 @@
+html {
+text-align:center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    align-items: center;
+    text-align: left;
+    margin: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  header {
+    color:rgb(95, 87, 87);
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 36px;
+    text-align: center;
+  }
+
+  
+  #display-password-container {
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  #display-password-container h2 {
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 24px;
+  }
+  
+  div.display-password {
+    width: 90%;
+    height: 200px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 18px;
+    border: 3px dashed #ccc;
+    border-radius: 8px;
+    resize: none;
+  }
+  
+  #generate-button {
+    background-color: #df0a0a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 20px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  #generate-button:hover {
+    background-color: #2980b9;
+  }
+  
