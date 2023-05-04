@@ -1,0 +1,2 @@
+# Password Generator
+Creates a random password based on what you want in it. You can choose the length and what kinds of characters to include (like numbers, uppercase letters, lowercase letters, and special characters) amd once you make your selections, a password will appear on the screen. This tool uses HTML, CSS, and JavaScript.
